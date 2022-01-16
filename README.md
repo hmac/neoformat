@@ -445,7 +445,8 @@ that caused Neoformat to be invoked.
     [`rubocop`](https://github.com/bbatsov/rubocop)
     [`prettier`](https://github.com/prettier/plugin-ruby)
 - Rust
-  - [`rustfmt`](https://github.com/rust-lang-nursery/rustfmt)
+  - [`rustfmt`](https://github.com/rust-lang/rustfmt)
+  - [`cargo`](https://github.com/rust-lang/cargo)
 - Sass
   - [`sass-convert`](http://sass-lang.com/documentation/#executables),
     [`stylelint`](https://stylelint.io/),
